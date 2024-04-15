@@ -15,10 +15,9 @@
 
 
 
-
-
+- 👨‍💻 As a Mechatronics and Software engineer, I am strive to be consitent in learning and exploring new technologies to improve my skills 
+- 💬 You can ask me about my experiences with Computer Vision, Robotics, and Embedded Systems.
 - ⚡ My hobby's include: **mostly gaming but I tend to get into computer vision and robotics development when I find an interesting topic to work on**
-
 - 📫 How to reach me? here's my personal email **ahmedys2010@gmail.com**
 
 
