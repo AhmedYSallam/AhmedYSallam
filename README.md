@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Discord Bot Animation Icon" height=400>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Discord Bot Animation Icon" height=300>
 </p>
 
 <br>
@@ -36,5 +36,7 @@
 ![Gazebo](https://img.shields.io/badge/-Gazebo-05122A?style=flat&logo=gazebo)&nbsp;
 ![Rviz](https://img.shields.io/badge/-Rviz-05122A?style=flat&logo=rviz)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedysallam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahmedysallam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedysallam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahmedysallam" /></p>    
+
+    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedysallam&&theme=tokyonight" alt="ahmedysallam" /></p>
