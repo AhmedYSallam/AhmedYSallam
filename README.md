@@ -8,10 +8,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=A900F7&vCenter=true&random=false&width=435&lines=Engineers+like+to+solve+problems.;If+there+are+no+problems+available;+they+will+create+their+own+problems.;-+Scott+Adams" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">Hi 👋, welcome to my profile I am Ahmed Yasser</h1>
-<h3 align="left">A passionate Mechatronics and Software developer</h3>
 <img align="right" alt="Coding" width="300" height="400" 
   src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/new.gif">
+
+<h1 align="center">Hi 👋, welcome to my profile I am Ahmed Yasser</h1>
+<h3 align="left">A passionate Mechatronics and Software developer</h3>
+
 
 
 
