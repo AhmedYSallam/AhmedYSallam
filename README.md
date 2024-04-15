@@ -39,4 +39,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedysallam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahmedysallam" /></p>    
 
     
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedysallam&&theme=tokyonight" alt="ahmedysallam" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedysallam&&theme=tokyonight" alt="ahmedysallam" /></p>
