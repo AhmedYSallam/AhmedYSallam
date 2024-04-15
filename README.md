@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, welcome to my profile I am Ahmed Yasser</h1>
 <h3 align="left">A passionate Mechatronics and Software developer</h3>
-<img align="right" alt="Coding" width="400" 
+<img align="right" alt="Coding" width="300" height="400" 
   src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/new.gif">
 
 
